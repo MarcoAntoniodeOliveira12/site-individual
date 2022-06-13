@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+    font-family:'Kdam Thmor Pro', sans-serif;
+    font-size: 15px;
+       
+} 
+
+.center{
+    max-width: 1100px;
+    margin: 0% auto;
+    padding: 0 2%;
+    display: flex;
+
+}
+
+header{
+    background-color: rgb(119, 255, 171);
+    padding: 20px 0;
+    border-color: 2px solid #d465e2;
+    
+}
+
+.cabecalho{
+    color: #d465e2;
+}
+
+.cabecalho h2{
+    font-weight: normal;
+    font-size: 55px;
+    text-align: center;
+}
+
+.cabecalho{
+    width: 80%;
+    text-align: right;
+}
+
+.cabecalho a:hover{
+    color: #d465e2;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.sobre h3{
+    font-weight: normal;
+    font-size: 25px;
+    color: rgb(225, 75, 255);
+    text-align: center;
+}
+
+.rodapé{
+    font-size: 14px;
+    font-family:'Kdam Thmor Pro', sans-serif ;
+    text-align: center;
+    background-color:rgb(119, 255, 171) ;
+}
+
+.sobre h4{
+    font-weight: normal;
+    font-size: 30px;
+    color: #591ee4;
+    text-align: center;
+    margin: 0%;
+    padding: 10px;
+    border: 0px solid red;
+    background-color: red;
+}
+
+.informaçoes h5{
+    font-weight: normal;
+    font-size: 40px;
+    color: #591ee4;
+    text-align: center;
+    margin: 0%;
+    padding: 30px;
+    border: 0px solid red;
+    background-color: red;
+}
+.informaçoes h1{
+    font-size: 30px;
+    font-weight: normal;
+    text-align: center;
+    color: rgb(17, 0, 255);
+    margin: 0%;
+    padding: 30px;
+    border: 0px solid rgb(89, 247, 149);
+    background-color:rgb(89, 247, 149);
+
+}
+
+.informaçoes{
+    text-align: center;
+    
+    
+}
+
+
+.pratos h6{
+    font-weight: normal;
+    text-align: center;
+    padding: 30px;
+    border: red;
+    background-color: red;
+    font-size: 40px;
+    color: #591ee4;
+    
+
+}
+
+.pratos h1{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(17, 0, 255);
+}
+
+.sobre p{
+    text-align: center;
+}
+
+.pratos p{
+    text-align: center;
+}
+
+.imagens p{
+    text-align: center;
+}
+
+.video p{
+   text-align: center;
+}
+   
+  
+
+
+
+
+
+
+ 
+
+
+
+
+
